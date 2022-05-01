@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\ADITYARAVEN\Desktop\Spring boot Projects\in28minutes\junitTesting\unit-testing"/>
+			<item value="C:\Users\ADITYARAVEN\Desktop\my_projects\udemy\Full_Stack_Angular_and_Java_Spring_Boot\ecommerce-project\02-back-end\spring-boot-ecommerce"/>
+			<item value="C:\Users\ADITYARAVEN\Desktop\Spring boot Projects\Durgesh video\React + spring boot\Spring Boot\springrest\springrest"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
